@@ -7,7 +7,7 @@ In this group project, we explored if a correlation existed between a movie's su
 
 The dataset was obtained from https://www.kaggle.com/tmdb/tmdb-movie-metadata.
 
-Using the GloVe pretrained word embedding and a LSTM, we obtained a tensor representation of each summary. Then, we passed the tensor into an MLP to obtain a prediction of the review score. Using the review score as a baseline, we performed backpropagation to train our model.
+Using the GloVe pretrained word embedding and an LSTM, we obtained a tensor representation of each summary. Then, we passed the tensor into an MLP to obtain a prediction of the review score. Using the review score as a baseline, we performed backpropagation to train our model.
 
 # What I Learned From This Project and Class
 - Properly labeled data is very important to the field of deep learning.
